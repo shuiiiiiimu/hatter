@@ -1,0 +1,9 @@
+errbot==4.3.4
+jira
+oauth2
+requests
+requests-oauthlib
+IPython
+filemagic
+tlslite
+PyCrypto

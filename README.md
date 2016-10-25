@@ -1,0 +1,3 @@
+## Hatter
+
+basic on errbot.
